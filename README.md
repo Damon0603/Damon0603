@@ -1,9 +1,9 @@
 # Damon 0603 🐳
 
+**`DIGITAL CRAFTSMAN (Developer | Quant | Pizzalover)`**
 
 ## About Me🦸‍♂️
 
-**`DIGITAL CRAFTSMAN (Developer | Quant | Pizzalover)`**
 
 
 ⚡Hi, nice to have you here. Who am I? I´m an developer in Asset Management with experience in 
