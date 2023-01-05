@@ -1,4 +1,4 @@
-#  Damon 0603 🐳
+## Damon 0603 🐳
 
 ⚡Hi, nice to have you here. Who am I? I´m an developer in Asset Management with experience in 
 Statistical & Scientific Computing using Python / R. My goal is to build expertise as a full stack developer and create Data Science focused apps from scratch.
