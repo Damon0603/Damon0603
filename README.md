@@ -23,6 +23,7 @@ Statistical & Scientific Computing using Python / R. My goal is to build experti
 To keep up with my enthusiasm, I am studying Artificial Intelligence with a major in Machine Learning at the Johannes Keppler University Linz.
 
 
+</br>
 <p align="center">
 
 
