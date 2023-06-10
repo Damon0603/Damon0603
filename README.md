@@ -18,8 +18,9 @@
 
 
 ### ⚡Hi, nice to have you here. 
-Who am I? I´m an developer in Asset Management with experience in 
-Statistical & Scientific Computing using Python / R and SQL. My goal is to build expertise as a full stack developer and create Data Science focused apps from scratch.
+Who am I? I´m an developer working in Asset Management with experience in 
+Scientific Computing using Python / R and SQL. My goal is to build expertise as a full stack developer and create Datadriven applications from scratch.
+My interest lies in Search Algorithms
 To keep up with my enthusiasm, I am studying Artificial Intelligence with a major in Machine Learning at the Johannes Keppler University Linz.
 
 
