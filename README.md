@@ -26,8 +26,7 @@ To keep up with my enthusiasm, I am studying Artificial Intelligence with a majo
 
 </br>
 <p align="center">
-  <meta charset="utf-8">
-  <title>Programming Languages</title>
+ 
 
 <body>
   <h3>👨‍💻 Programming and Markup Languages</h3>
