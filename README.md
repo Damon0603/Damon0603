@@ -28,7 +28,6 @@ To keep up with my enthusiasm, I am studying Artificial Intelligence with a majo
 <p align="center">
  
 
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
