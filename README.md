@@ -11,7 +11,7 @@
 </p>
 
 
-**`DIGITAL CRAFTSMAN (Developer | Quant | Pizzalover)`**
+**` (Developer | Artist | Athlete)`**
 
 ## About Me🦸‍♂️
 
