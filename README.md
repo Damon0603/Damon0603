@@ -21,7 +21,7 @@
 Who am I? I´m an developer working in Asset Management with experience in 
 Scientific Computing using Python. I´m interested in everything that is related to Machine Learning and Quantum Computing
 To keep up with my enthusiasm, I am studying Artificial Intelligence with a major in Machine Learning at the Johannes Keppler University Linz.
-
+check my WAKATIME -> https://wakatime.com/@SDB94
 
 </br>
 <p align="center">
