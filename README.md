@@ -19,7 +19,7 @@
 
 ### ⚡Hi, nice to have you here. 
 Who am I? I´m an developer working in Asset Management with experience in 
-Scientific Computing using Python. I´m interested in everything that is related to Machine Learning and Quantum Computing
+Software Development and Computer Vision using Python. I´m interested in everything that is related to Machine Learning and Quantum Computing
 To keep up with my enthusiasm, I am studying Artificial Intelligence with a major in Machine Learning at the Johannes Keppler University Linz.
 
 </br>
