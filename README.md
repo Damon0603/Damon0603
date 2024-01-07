@@ -12,6 +12,7 @@
 
 
 **` (Developer | Artist | Athlete)`**
+<br>
 ![Wakatime Badge](https://wakatime.com/badge/user/17093f01-1a40-427a-814f-1bd7b7e77f6f.svg)
 
 
