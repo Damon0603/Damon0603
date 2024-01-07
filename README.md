@@ -22,9 +22,18 @@
 
 
 ### ⚡Hi, nice to have you here. 
-Who am I? I´m an developer working in Asset Management with experience in 
-Software Development and Computer Vision using Python. I´m interested in everything that is related to Machine Learning and Quantum Computing
-To keep up with my enthusiasm, I am studying Artificial Intelligence with a major in Machine Learning at the Johannes Keppler University Linz.
+Who am I?
+I´m a Software Engineer working in Asset Management where I develop high performance Web Applications with Rust, Python and React. Apart from that I study 
+Artificial Intelligence @JKU Linz and what fascinates me most is quantum Computing and what effect it can/will have on our lifes. 
+
+Before becoming a Computer Nerd , I was doing Olympic Boxing 
+
+Feel free to contact me : sebastiandamonbreuer@gmail.com 
+
+And before i forget - Everything that can be written in Rust , will eventually be written in Rust Amigos :P 
+
+
+Cheers
 
 </br>
 <p align="center">
