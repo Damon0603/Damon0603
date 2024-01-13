@@ -30,7 +30,7 @@ Before becoming a Computer Nerd , I was doing Olympic Boxing
 
 Feel free to contact me : sebastiandamonbreuer@gmail.com 
 
-And before i forget - Everything that can be written in Rust , will eventually be written in Rust Amigos :P 
+And before i forget - Everything that can be written in Rust , will eventually be rewritten in Rust
 
 
 Cheers
