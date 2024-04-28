@@ -26,7 +26,7 @@ Who am I?
 I´m a Software Engineer working in Asset Management where I develop high performance Web Applications with Rust, Python and React. Apart from that I study 
 Artificial Intelligence @JKU Linz and what fascinates me most is quantum Computing and what effect it can/will have on our lifes. 
 
-Before becoming a Computer Nerd , I was doing Olympic Boxing 
+Before all of this, I was doing Olympic Boxing 
 
 Feel free to contact me : sebastiandamonbreuer@gmail.com 
 
